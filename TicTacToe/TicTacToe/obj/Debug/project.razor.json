@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\MAC (2018.11.20)\\College\\Semester2\\COMP 123\\TicTacToe game\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+  "TargetFramework": "v4.7.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
